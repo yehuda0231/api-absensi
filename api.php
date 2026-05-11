@@ -2,7 +2,7 @@
 $conn = new mysqli(
     "sql303.infinityfree.com",
     "if0_41884666",
-    "PASSWORD_KAMU",
+    "Vyh4f1onprxJSAj",
     "if0_41884666_absensi_db"
 );
 
